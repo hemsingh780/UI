@@ -16,6 +16,9 @@ button{
 .logo-container img{
     height:34px;
 }
+.logo_span{
+    color:orange;
+}
 header{
     display: flex;
     width: 90%;
